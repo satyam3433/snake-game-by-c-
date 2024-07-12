@@ -1,1 +1,1 @@
-# snake-game-by-c-
+# snake-game-by-c++
